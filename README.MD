@@ -1,4 +1,6 @@
-TuneHub is a website for guitar enthusiasts, where all popular guitar tunings are presented.
+TuneHub is an open-source project for guitar enthusiasts, where all popular guitar tunings are presented.
+
+Front-end: Angular2
 
 Fatures to be added:
 - tuning guitar by microphone;
