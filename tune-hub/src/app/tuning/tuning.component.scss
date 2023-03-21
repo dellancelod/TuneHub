@@ -1,5 +1,4 @@
 .tuning-container{
-    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -7,6 +6,7 @@
 }
 .guitar-head{
     position: absolute;
+    display: flex;
     height: 60%;
     bottom: 0px;
 }
