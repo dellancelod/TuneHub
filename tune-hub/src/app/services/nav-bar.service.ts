@@ -9,7 +9,7 @@ export class NavBarService {
  
   constructor() { }
  
-  toggleSideNav(): void {
+  toggleNavBar(): void {
     this.hideNavBar = !this.hideNavBar;
   }
 }
