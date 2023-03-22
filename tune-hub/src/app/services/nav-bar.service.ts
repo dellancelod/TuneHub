@@ -5,5 +5,11 @@ import { Injectable } from '@angular/core';
 })
 export class NavBarService {
 
+  hideNavBar: boolean = false;
+ 
   constructor() { }
+ 
+  toggleSideNav(): void {
+    this.hideNavBar = !this.hideNavBar;
+  }
 }
